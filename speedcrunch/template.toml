@@ -1,0 +1,8 @@
+[catalog.speedcrunch]
+name = SpeedCrunch
+category = "misc"
+
+[templates.speedcrunch]
+pre_hook    = "mkdir -p $XDG_CONFIG_HOME/SpeedCrunch/color-schemes"
+input_path  = "speedcrunch.json"
+output_path = "$XDG_CONFIG_HOME/SpeedCrunch/color-schemes/Noctalia.json"
