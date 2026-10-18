@@ -1,5 +1,5 @@
 [catalog.speedcrunch]
-name = SpeedCrunch
+name = "SpeedCrunch"
 category = "misc"
 
 [templates.speedcrunch]
